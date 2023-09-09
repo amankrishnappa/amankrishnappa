@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amankrish78@gmail.com**
 
-- ⚡ Fun fact **tech enthusiast**
+- ⚡ Fun fact **i do comedy when im stresssed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
