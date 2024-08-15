@@ -5,12 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankrishnappa" alt="amankrishnappa" /></a> </p>
 
-- 🔭 I’m currently working on **web development and its aspects**
+- 🔭 I’m working on **web development and its aspects**
 
 - 🌱 I’m currently learning **javascript and frameworks**
 
 - 📫 How to reach me **amankrish78@gmail.com**
 
+-  mission on  java full stack with frame works such as j2EE and sevelets.
+
+- SQL database.
 
 
 <h3 align="left">Connect with me:</h3>
