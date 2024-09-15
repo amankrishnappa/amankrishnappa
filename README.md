@@ -7,7 +7,7 @@
 
 - 🔭 I’m working on **web development and its aspects**
 
-- 🌱 I’m currently learning **javascript and frameworks**
+- 🌱 I’m currently learning **javascript and frameworks with java as its backend and mysql as db**
 
 - 📫 How to reach me **amankrish78@gmail.com**
 
