@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankrishnappa" alt="amankrishnappa" /></a> </p>
 
-- 🔭 I’m working on **web development and its aspects**
+- 🔭 I’m working on **java full stack **
 
 - 🌱 I’m currently learning **javascript and frameworks with java as its backend**
 
